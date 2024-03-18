@@ -1,0 +1,43 @@
+/* Styling for employee element */
+employee {
+    display: block;
+    margin-bottom: 20px;
+    background-color: #caa659;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Styling for name element */
+name {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+phones,
+phone {
+    margin-top: 5px;
+}
+
+phone {
+    display: block; /* Changed from inline-block to block */
+    padding: 5px 10px;
+    background-color: #e3b488;
+    border-radius: 5px;
+    margin-bottom: 5px; /* Added margin-bottom to separate phone numbers */
+}
+
+addresses,
+address {
+    margin-top: 5px;
+}
+
+address {
+    margin-bottom: 5px;
+}
+
+email {
+    margin-top: 5px;
+    font-style: italic;
+    color: #141313;
+}

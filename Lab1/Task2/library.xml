@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<library>
+    <location>Cairo</location>
+    <description>A public library serving the community with a wide range of educational resources and cultural activities.</description>
+    <librarian>
+        <name>Sarah Ahmed</name>
+        <email>sahmed@example.com</email>
+    </librarian>
+    <books>
+        <book>
+            <title>Introduction to Artificial Intelligence</title>
+            <isbn>978-0-13-604259-4</isbn>
+            <author>Peter Norvig, Stuart Russell</author>
+            <preface>
+                <content>This book provides an introduction to the field of artificial intelligence.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Foundations of AI</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>Introduction to artificial intelligence.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>This chapter covers the basics of AI, including its history and applications.</paragraph>
+                                    <paragraph>We'll explore topics such as intelligent agents and problem-solving techniques.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Hitchhiker's Guide to the Galaxy</title>
+            <isbn>978-0-345-39181-3</isbn>
+            <author>Douglas Adams</author>
+            <preface>
+                <content>A comedic science fiction series following the misadventures of Arthur Dent.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Volume 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>An ordinary Thursday lunchtime for Arthur Dent is interrupted by...</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>...the demolition of his house, shortly followed by the end of the Earth.</paragraph>
+                                    <paragraph>Arthur's subsequent adventures lead him to discover the truth about the universe.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>Modern JavaScript Development</title>
+            <isbn>978-1-4842-2611-5</isbn>
+            <author>Vladan Jovanovic</author>
+            <preface>
+                <content>A comprehensive guide to JavaScript development in the modern web era.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Core Concepts</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>Introduction to JavaScript and its ecosystem.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>This chapter covers the basics of JavaScript, including variables, functions, and control flow.</paragraph>
+                                    <paragraph>We'll explore modern development tools and best practices.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
